@@ -1,0 +1,29 @@
+#main-header{
+  height: 200px;
+  opacity: 1.0;
+}
+
+body{
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  background-color: #FFF;
+  opacity: 0.85;
+}
+
+html{
+  background: url(header.jpeg) no-repeat;
+  background-size: 100%;
+  background-size: cover;
+}
+.container{
+  background-color: #fff;
+}
+
+.containerMain{
+  background-color: #fff;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+}
